@@ -38,3 +38,5 @@ out/
 
 ### Secrets ###
 application-secrets.properties
+
+*.hprof
